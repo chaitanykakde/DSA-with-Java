@@ -3,6 +3,7 @@ public class FUnctionOverlOading {
         fun("Hello");
         fun(7);
         fun(9,9);
+       System.out.println("Vishal");
     }
     static void fun(int num){
         System.out.println(num);
